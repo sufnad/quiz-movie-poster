@@ -1,4 +1,4 @@
-# Défi Cinéma
+# Movie Match Challenge
 
 Un jeu interactif en Python avec Streamlit pour tester vos connaissances cinématographiques à travers les époques et les genres. Devinez le titre des films à partir d’un poster flouté.  
 Ce projet utilise l'API de TMDb (The Movie Database) pour récupérer les informations sur les films.
